@@ -1,4 +1,4 @@
-name: Magmanode Restore
+name: Seedloaf Restore
 
 on:
   workflow_dispatch:
